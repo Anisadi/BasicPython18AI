@@ -1,1 +1,2 @@
-print("hello world")
+n = "hello world"
+print(n)
