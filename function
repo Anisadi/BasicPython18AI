@@ -1,0 +1,5 @@
+def halo():
+    print("Selemat Pagi!")
+
+def perkenalkan (nama, umur, domisili):
+    

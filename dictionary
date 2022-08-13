@@ -1,0 +1,11 @@
+mydict = {
+    "Name": "Zara",
+    "Age": "7",
+    "Class" : "First"
+    }
+
+print(mydict)
+mydict["Age"] = "8" #change value 
+mydict["School"] = "DPS School" #add value 
+
+print(mydict)
